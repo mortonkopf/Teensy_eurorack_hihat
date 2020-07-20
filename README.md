@@ -21,7 +21,8 @@ A teensy microcontroller hihat module for eurorack. A no frills teensy 3.2 HiHat
  * 
  * 
  * six square waves to make an 808 hihat: http://joesul.li/van/synthesizing-hi-hats/
-Fundamental:40
+
+Fundamental freq =40
 
 Osc1 ratio:2
 
