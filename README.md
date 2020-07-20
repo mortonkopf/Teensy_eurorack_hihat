@@ -1,5 +1,7 @@
 # Teensy_eurorack_hihat
 
+image: https://user-images.githubusercontent.com/10212990/87932250-19c3a480-ca83-11ea-9b29-cb3052e256a8.jpg
+
 A teensy microcontroller hihat module for eurorack. A no frills teensy 3.2 HiHat eurorack module. Using Teensy audio DSP
  * 
  * Based on 808 model of
